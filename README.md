@@ -1,4 +1,5 @@
-<b>Homework - C# Start, Data types, Console</b>
+<b style="font-size:18px">Homework - C# Start, Data types, Console</b>
+<br>
 C#-da data tiplər barəsində aşağıdakı linklərdən oxuyun:
 
 https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/types-and-variables
@@ -9,7 +10,7 @@ Aşağıdakı linkdən 6, 8, 9, 12 rəqəmli tapşırıqları bitirin. (istəyə
 
 https://www.w3resource.com/csharp-exercises/basic/index.php
 --------------------------------------------------------------------------------------------
-- C# Methods
+<b style="font-size:18px">- C# Methods</b>
 Aşağıdakı linkdən metodlar haqqında oxuyun
 
 http://www.learncs.org/en/Methods
