@@ -13,7 +13,9 @@ https://www.w3resource.com/csharp-exercises/basic/index.php
 Aşağıdakı linkdən metodlar haqqında oxuyun
 
 http://www.learncs.org/en/Methods
+
 https://csharp-station.com/Tutorial/CSharp/Lesson05
+
 https://www.tutorialspoint.com/csharp/csharp_methods.htm
 
 
