@@ -11,6 +11,7 @@ Aşağıdakı linkdən 6, 8, 9, 12 rəqəmli tapşırıqları bitirin. (istəyə
 https://www.w3resource.com/csharp-exercises/basic/index.php
 --------------------------------------------------------------------------------------------
 <b style="font-size:26px">- C# Methods</b>
+<br>
 Aşağıdakı linkdən metodlar haqqında oxuyun
 
 http://www.learncs.org/en/Methods
