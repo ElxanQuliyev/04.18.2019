@@ -1,4 +1,4 @@
-Homework - C# Start, Data types, Console
+<b>Homework - C# Start, Data types, Console</b>
 C#-da data tiplər barəsində aşağıdakı linklərdən oxuyun:
 
 https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/types-and-variables
